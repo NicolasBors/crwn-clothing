@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "Open Sans Condensed";
+    src: url('./assets/fonts/OpenSansCondensed-Light.ttf');
+}
+
+body {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
