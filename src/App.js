@@ -34,7 +34,6 @@ class App extends Component {
               }
             }
           )
-          console.log(this.state)
         })
       }
       this.setState({currentUser: userAuth})
