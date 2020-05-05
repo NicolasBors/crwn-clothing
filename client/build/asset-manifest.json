@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.676da0bc.chunk.css",
+    "main.js": "/static/js/main.b761b07e.chunk.js",
+    "main.js.map": "/static/js/main.b761b07e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a4da908e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a4da908e.js.map",
+    "static/js/2.6eef487e.chunk.js": "/static/js/2.6eef487e.chunk.js",
+    "static/js/2.6eef487e.chunk.js.map": "/static/js/2.6eef487e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e6fb2c4a8b65669009bb19e20815e1bc.js": "/precache-manifest.e6fb2c4a8b65669009bb19e20815e1bc.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.676da0bc.chunk.css.map": "/static/css/main.676da0bc.chunk.css.map",
+    "static/js/2.6eef487e.chunk.js.LICENSE.txt": "/static/js/2.6eef487e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/OpenSansCondensed-Light.3589bddb.ttf",
+    "static/media/crown.ed28accb.svg": "/static/media/crown.ed28accb.svg",
+    "static/media/shopping-bag.30f07071.svg": "/static/media/shopping-bag.30f07071.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4da908e.js",
+    "static/js/2.6eef487e.chunk.js",
+    "static/css/main.676da0bc.chunk.css",
+    "static/js/main.b761b07e.chunk.js"
+  ]
+}
