@@ -1,6 +1,6 @@
 # crwn-clothing
 
-Large scale e-commerce application built with ReactJS
+Large scale sample e-commerce application built with ReactJS
 
 Set ups:
 Authentification and user accounts
