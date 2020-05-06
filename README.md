@@ -6,8 +6,8 @@ Set ups:
 Authentification and user accounts
 
 Features:
-ReactJS, Hooks and React Router
-Redux, Redux Thunk and Redux Saga
+ReactJS, Hooks and React Router //
+Redux, Redux Thunk and Redux Saga //
 Styled-components
 
 Data hosting handled with Google Firebase
